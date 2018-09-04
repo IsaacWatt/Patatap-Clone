@@ -1,3 +1,3 @@
 # Patatap-Clone
 
-Practie with front end javascript and the PaperJS / Howler libraries
+Uses `paperjs` and `howlerjs` libraries to create a clone of [Patatap](https://patatap.com/). Live demo can be found [here](http://isaacwatt.me/Patatap/circles.html).  
